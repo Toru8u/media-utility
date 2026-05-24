@@ -18,3 +18,7 @@ Weitere Filter:
 --dry-run für nur Anzeige (ohne Kopieren)
 
 Damit werden alle Favoriten-fotos auch in großen, tief verschachtelten Verzeichnissen gefunden.
+
+# Exif Analyzer
+
+[Exif Analyzer](exif-analyzer.html)
